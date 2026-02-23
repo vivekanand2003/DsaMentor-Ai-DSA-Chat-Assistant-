@@ -59,7 +59,7 @@ export default function App() {
   const scrollRef = useRef<HTMLDivElement>(null);
 
   // Initialize Gemini
-  const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY || 'AIzaSyDmAcK1HCxDSwJlUm4wzhlkwgAsbH_bSIY' });
+  const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY || '' });
 
   useEffect(() => {
     if (scrollRef.current) {
