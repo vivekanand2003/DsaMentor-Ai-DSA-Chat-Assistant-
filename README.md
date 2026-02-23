@@ -118,4 +118,5 @@ Frontend and base implementation were assisted by **AiStudio.google.com/**, whil
 ---
 
 ## 📸 Screenshots
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/da188853-ef61-4720-acf6-5befd574c494" />
 
