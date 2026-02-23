@@ -1,0 +1,5 @@
+{
+  "name": "Dsa-Mentor-Ai",
+  "description": "A specialized DSA Instructor AI chatbot that provides clear explanations for data structures and algorithms, but has a low tolerance for off-topic questions.",
+  "requestFramePermissions": []
+}
